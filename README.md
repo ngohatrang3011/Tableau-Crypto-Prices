@@ -1,10 +1,10 @@
-Hello!
+# Cryptocurrencies Visualization using Tableau
 
-This is my first public Tableau Visualization.
+## Overview
+This project focuses on visualizing cryptocurrency data using Tableau. Tableau is a powerful data visualization tool that allows users to create interactive and insightful visualizations from various datasets. In this project, we leverage Tableau to create visually appealing and informative dashboards to analyze cryptocurrency market trends and price movements.
 
-I followed the guidelines of Mr. Toan Hoang, changed some details and finally finished it.
+## Dataset
+The project uses cryptocurrency data sourced from CoinMarketCap. The dataset includes information about different cryptocurrencies, their prices, market capitalization and trading volumes.
 
-Link to the dashboard:
-https://public.tableau.com/app/profile/trang.ngo1635/viz/Crypto_16439080990710/DASHBOARD#1
-
-Please leave me any comment for this newbie so that I can develop my skills faster.
+## Tableau Dashboard
+Access the Tableau dashboard [here](https://public.tableau.com/app/profile/trang.ngo1635/viz/Crypto_16439080990710/DASHBOARD#1).
